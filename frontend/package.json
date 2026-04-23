@@ -1,0 +1,1 @@
+{"name": "marketplace-app", "version": "1.0.0", "description": "A full-stack marketplace application", "main": "index.js", "scripts": { "start": "node index.js" }, "dependencies": {} }
